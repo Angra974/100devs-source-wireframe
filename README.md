@@ -1,4 +1,4 @@
-# -100devs-hair-saloon
+# -100devs-source-wireframe
 
 Source Wireframe made as an assigment for #100devs bootcamp. Original design by Max Schneider
 
