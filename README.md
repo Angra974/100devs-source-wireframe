@@ -1,6 +1,6 @@
 # -100devs-source-wireframe
 
-Source Wireframe made as an assigment for #100devs bootcamp. Original design by Max Schneider
+Source Wireframe. Original design by Max Schneider
 
 Live ? Clic on the image
 
